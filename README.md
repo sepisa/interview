@@ -1,1 +1,1 @@
-answers of q1 and q3 is in the pdf file and the 2nd question is in jupyter file.
+The answers for the first and third questions have been provided in the PDF file; also the jupyter file contains implementation of the second question.
